@@ -7,5 +7,5 @@
     )
   }
   
-  ReactDOM.render(, document.querySelector("#app"));
+  ReactDOM.render(<App version={"0.0.1"}/>, document.querySelector("#app"));
 })(window)
